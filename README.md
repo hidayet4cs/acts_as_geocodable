@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
