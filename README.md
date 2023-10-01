@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
