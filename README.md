@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Elaborate Train and Predict mode docs arguments (#8137)
