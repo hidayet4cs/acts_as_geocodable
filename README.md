@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Mkdocs annotations fixes (#7600)
