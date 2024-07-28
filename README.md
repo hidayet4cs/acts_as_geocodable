@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+YAML reformat (#7669)
